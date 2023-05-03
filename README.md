@@ -1,4 +1,4 @@
-### Hi there 👋[![MasterHead](https://granulate.io/wp-content/uploads/2023/01/Blog-Banner-39.png)]
+### Hi there 👋![MasterHead](https://granulate.io/wp-content/uploads/2023/01/Blog-Banner-39.png)
 <h1 align="center">Hi 👋, I'm Akanksha Bhagat</h1>
 <h3 align="center">A passionate python programmer from India</h3>
 

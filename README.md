@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akankshaabhagat" alt="akankshaabhagat" /></a> </p>
 
-- 💬 Ask me about **Python , SQL, Tableu**
+- 💬 Ask me about **python**
 
 - 📫 How to reach me **akankshabhagat2127@gmail.com**
 

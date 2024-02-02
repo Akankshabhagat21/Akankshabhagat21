@@ -1,6 +1,6 @@
 ### Hi there 👋![MasterHead](https://granulate.io/wp-content/uploads/2023/01/Blog-Banner-39.png)
 <h1 align="center">Hi 👋, I'm Akanksha Bhagat</h1>
-<h3 align="center">A passionate python programmer from India</h3>
+<h3 align="center">A passionate python programmer interested in machine learning and data science from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akanksha-bhagat&label=Profile%20views&color=0e75b6&style=flat" alt="akanksha-bhagat" /> </p>
 
